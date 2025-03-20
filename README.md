@@ -64,7 +64,7 @@ import (
 	"fmt"
 	"log"
 
-	engine "github.com/rabbit-backend/template"
+	engine "github.com/gabrielbovilorandi/go-template"
 	_ "github.com/lib/pq"
 )
 
