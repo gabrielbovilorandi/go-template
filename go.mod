@@ -1,3 +1,3 @@
-module github.com/rabbit-backend/template
+module github.com/gabriellorandi/go-template
 
 go 1.22.4
