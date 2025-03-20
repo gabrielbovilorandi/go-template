@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	engine "github.com/rabbit-backend/template"
+	engine "github.com/gabrielbovilorandi/go-template"
 )
 
 func main() {
