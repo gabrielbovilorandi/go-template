@@ -128,9 +128,3 @@ With parameters:
 ```
 
 This safely checks the database for the exact string without executing unintended SQL logic.
-
-## Contributing
-Feel free to contribute by opening pull requests or issues.
-
-## License
-This library is licensed under the MIT License.
